@@ -1,5 +1,8 @@
-const ReservasPage = function(){
+const ReservasPage = function () {
+    return (
+        <></>
 
+    );
 }
 
 export default ReservasPage
